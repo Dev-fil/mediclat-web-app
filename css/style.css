@@ -468,6 +468,10 @@ form .form-control{
     color: #34c6d3;
 }
 
+  input, select, textarea{
+    color:black;
+}
+
 
 
 
